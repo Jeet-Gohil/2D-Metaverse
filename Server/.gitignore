@@ -1,7 +1,7 @@
 # Logs
 logs
 
-sever/.env
+Server/.env
 
 *.log
 npm-debug.log*
